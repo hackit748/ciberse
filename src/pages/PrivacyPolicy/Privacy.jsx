@@ -10,7 +10,7 @@ const Privacy = () => {
     <div className="Privacy Policy bg-slate-100">
       <Navbar />
       <div className="w-[85%] mx-auto">
-        <h1 className="text-4xl font-bold my-4">Welcome to Ciberse.com</h1>
+        <h1 className="text-4xl font-bold my-4">Welcome to Ciberse</h1>
         <p className="text-xl">
           We require this information to understand your needs and provide you
           with a better service and create a picture of your interests This will
