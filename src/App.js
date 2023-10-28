@@ -1,5 +1,6 @@
 import "./App.css";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import Hompage from "./pages/Homepage/Hompage";
 import WebTesting from "./pages/Services/WebTesting";
 import AppTesting from "./pages/Services/AppTesting";
